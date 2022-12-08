@@ -3,7 +3,6 @@ module github.com/aperturerobotics/jacobsa-crypto
 go 1.18
 
 require (
-	github.com/aperturerobotics/jacobsa-crypto v0.0.0-20190317225127-9f44e2d11115
 	github.com/jacobsa/oglematchers v0.0.0-20150720000706-141901ea67cd
 	github.com/jacobsa/ogletest v0.0.0-20170503003838-80d50a735a11
 )
