@@ -1,4 +1,4 @@
-module github.com/aperturerobotics/jacobsa-crypto
+module github.com/jacobsa/crypto
 
 go 1.18
 
