@@ -18,9 +18,9 @@ package common_test
 import (
 	"testing"
 
-	"github.com/aperturerobotics/jacobsa-crypto/common"
 	. "github.com/jacobsa/oglematchers"
 	. "github.com/jacobsa/ogletest"
+	"github.com/yueryou/jacobsa-crypto/common"
 )
 
 func TestXor(t *testing.T) { RunTests(t) }

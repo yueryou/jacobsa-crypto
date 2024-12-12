@@ -16,10 +16,10 @@
 package cmac_test
 
 import (
-	"github.com/aperturerobotics/jacobsa-crypto/cmac"
-	aes_testing "github.com/aperturerobotics/jacobsa-crypto/testing"
 	. "github.com/jacobsa/oglematchers"
 	. "github.com/jacobsa/ogletest"
+	"github.com/yueryou/jacobsa-crypto/cmac"
+	aes_testing "github.com/yueryou/jacobsa-crypto/testing"
 	"hash"
 	"testing"
 )

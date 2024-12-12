@@ -19,7 +19,7 @@ import (
 	"bytes"
 	"crypto/cipher"
 
-	"github.com/aperturerobotics/jacobsa-crypto/common"
+	"github.com/yueryou/jacobsa-crypto/common"
 )
 
 var subkeyZero []byte

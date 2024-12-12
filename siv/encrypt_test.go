@@ -19,10 +19,10 @@ import (
 	"crypto/rand"
 	"testing"
 
-	"github.com/aperturerobotics/jacobsa-crypto/siv"
-	aes_testing "github.com/aperturerobotics/jacobsa-crypto/testing"
 	. "github.com/jacobsa/oglematchers"
 	. "github.com/jacobsa/ogletest"
+	"github.com/yueryou/jacobsa-crypto/siv"
+	aes_testing "github.com/yueryou/jacobsa-crypto/testing"
 )
 
 func TestEncrypt(t *testing.T) { RunTests(t) }

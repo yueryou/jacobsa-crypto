@@ -38,7 +38,7 @@ func (c DblTestCase) String() string {
 func DblCases() []DblTestCase {
 	// Find the source package.
 	pkg, err := build.Import(
-		"github.com/aperturerobotics/jacobsa-crypto/testing/cases",
+		"github.com/yueryou/jacobsa-crypto/testing/cases",
 		"",
 		build.FindOnly)
 

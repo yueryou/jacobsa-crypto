@@ -22,7 +22,7 @@ import (
 	"hash"
 	"unsafe"
 
-	"github.com/aperturerobotics/jacobsa-crypto/common"
+	"github.com/yueryou/jacobsa-crypto/common"
 )
 
 type cmacHash struct {
